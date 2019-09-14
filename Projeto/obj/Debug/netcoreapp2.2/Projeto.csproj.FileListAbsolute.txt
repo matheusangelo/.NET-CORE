@@ -1,0 +1,16 @@
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.deps.json
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.json
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.runtimeconfig.dev.json
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.dll
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.pdb
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.csprojAssemblyReference.cache
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CoreCompileInputs.cache
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfoInputs.cache
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.AssemblyInfo.cs
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.dll
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.pdb
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.Interface.dll
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.lib.dll
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.lib.pdb
+C:\Pessoal\curso_angular_core\Projeto\bin\Debug\netcoreapp2.2\Projeto.Interface.pdb
+C:\Pessoal\curso_angular_core\Projeto\obj\Debug\netcoreapp2.2\Projeto.csproj.CopyComplete

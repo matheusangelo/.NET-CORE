@@ -1,0 +1,9 @@
+C:\Pessoal\curso_angular_core\Projeto.Interface\bin\Debug\netstandard2.0\Projeto.Interface.deps.json
+C:\Pessoal\curso_angular_core\Projeto.Interface\bin\Debug\netstandard2.0\Projeto.Interface.dll
+C:\Pessoal\curso_angular_core\Projeto.Interface\bin\Debug\netstandard2.0\Projeto.Interface.pdb
+C:\Pessoal\curso_angular_core\Projeto.Interface\obj\Debug\netstandard2.0\Projeto.Interface.csprojAssemblyReference.cache
+C:\Pessoal\curso_angular_core\Projeto.Interface\obj\Debug\netstandard2.0\Projeto.Interface.csproj.CoreCompileInputs.cache
+C:\Pessoal\curso_angular_core\Projeto.Interface\obj\Debug\netstandard2.0\Projeto.Interface.AssemblyInfoInputs.cache
+C:\Pessoal\curso_angular_core\Projeto.Interface\obj\Debug\netstandard2.0\Projeto.Interface.AssemblyInfo.cs
+C:\Pessoal\curso_angular_core\Projeto.Interface\obj\Debug\netstandard2.0\Projeto.Interface.dll
+C:\Pessoal\curso_angular_core\Projeto.Interface\obj\Debug\netstandard2.0\Projeto.Interface.pdb

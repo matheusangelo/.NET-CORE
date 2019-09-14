@@ -1,0 +1,12 @@
+C:\Pessoal\curso_angular_core\Projeto.lib\bin\Debug\netstandard2.0\Projeto.lib.deps.json
+C:\Pessoal\curso_angular_core\Projeto.lib\bin\Debug\netstandard2.0\Projeto.lib.dll
+C:\Pessoal\curso_angular_core\Projeto.lib\bin\Debug\netstandard2.0\Projeto.lib.pdb
+C:\Pessoal\curso_angular_core\Projeto.lib\bin\Debug\netstandard2.0\Projeto.Interface.dll
+C:\Pessoal\curso_angular_core\Projeto.lib\bin\Debug\netstandard2.0\Projeto.Interface.pdb
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.csprojAssemblyReference.cache
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.csproj.CoreCompileInputs.cache
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.AssemblyInfoInputs.cache
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.AssemblyInfo.cs
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.csproj.CopyComplete
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.dll
+C:\Pessoal\curso_angular_core\Projeto.lib\obj\Debug\netstandard2.0\Projeto.lib.pdb
